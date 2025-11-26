@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Темная тема для приложения -->
+    <style name="Theme.FlowerlyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Основные цвета -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        
+        <!-- Вторичные цвета -->
+        <item name="colorSecondary">@color/accent_color</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        
+        <!-- Фоновые цвета -->
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        
+        <!-- Текстовые цвета - БЕЛЫЕ для темной темы -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+        
+        <!-- Дополнительные настройки -->
+        <item name="android:statusBarColor">@color/background_color</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/background_color</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        
+        <!-- Специальные настройки для темной темы -->
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textColorLink">@color/accent_color</item>
+        <item name="android:textColorTertiary">@color/text_secondary</item>
+    </style>
+</resources>

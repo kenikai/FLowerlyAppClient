@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Flowerbly</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="flower_roses">Розы</string>
+    <string name="flower_orchids">Орхидея</string>
+    <string name="flower_tulips">Тюльпаны</string>
+    <string name="flower_peonies">Пионы</string>
+    <string name="flower_lilies">Лиллия</string>
+    <string name="flower_irises">Ирисы</string>
+    <string name="flower_chrysanthemums">Хризантемы</string>
+    <string name="price_roses">5000\u2080</string>
+    <string name="price_orchids">5089\u2080</string>
+    <string name="price_tulips">4163\u2080</string>
+    <string name="price_peonies">7000\u2080</string>
+    <string name="price_lilies">4200\u2080</string>
+    <string name="price_irises">3800\u2080</string>
+    <string name="price_chrysanthemums">4000\u2080</string>
+    <string name="welcome_to">Добро пожаловать</string>
+    <string name="join_us">Присоединяйтесь к нам</string>
+    <string name="continue_">Продолжить</string>
+    <string name="log_in">Вход в систему</string>
+    <string name="email_address">Email адрес</string>
+    <string name="password">Пароль</string>
+    <string name="forgot_your_password_here_click">Забыли свой пароль? Кликните сюда</string>
+    <string name="or">ИЛИ</string>
+    <string name="continue_as_a_guest">Продолжайте в качестве гостя</string>
+    <string name="don_t_have_an_account_sign_up">У вас нет учетной записи? Регистрируйтесь</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="already_have_account_log_in">У вас уже есть аккаунт? Авторизовуйтесь</string>
+    <string name="search">Search</string>
+    <string name="description_text">Горизонтальная прокрутка с изображениями</string>
+    <string name="special_offers">Special Offers</string>
+    <string name="home_nav">Главная</string>
+    <string name="shop_nav">Магазин</string>
+    <string name="favorites_nav">Избранное</string>
+    <string name="cart_nav">Корзина</string>
+    <string name="account_nav">Аккаунт</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_list_home_page"><![CDATA[Тренды и популярные сейчас]]></string>
+    <string name="view_all">Просм. все</string>
+    <string name="Delivery_flower">Доставка цветов</string>
+</resources>

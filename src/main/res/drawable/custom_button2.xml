@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Состояние нажатия -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FF5722" /> <!-- Цвет кнопки при нажатии -->
+            <corners android:radius="20dp" /> <!-- Закругленные углы -->
+        </shape>
+    </item>
+
+    <!-- Обычное состояние -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#F2F4F5" /> <!-- Цвет кнопки в обычном состоянии -->
+            <corners android:radius="20dp" /> <!-- Закругленные углы -->
+            <stroke
+                android:color="@color/green_500"
+                android:width="1dp" /> <!-- Обводка вокруг кнопки -->
+        </shape>
+    </item>
+</selector>
